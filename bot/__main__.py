@@ -50,7 +50,7 @@ def stats(update, context):
 
 def start(update, context):
     start_string = f'''
-This bot can upload all your files to our belovfed Google Drive💛
+This bot can upload all your files to our beloved Google Drive💛
 To get a list of available commands, type /{BotCommands.HelpCommand}.
 '''
     buttons = button_build.ButtonMaker()
