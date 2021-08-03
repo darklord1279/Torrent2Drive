@@ -50,11 +50,11 @@ def stats(update, context):
 
 def start(update, context):
     start_string = f'''
-This bot can mirror all your links to Google Drive!
-Type /{BotCommands.HelpCommand} to get a list of available commands
+This bot can upload all your files to our belovfed Google Drive💛
+To get a list of available commands, type /{BotCommands.HelpCommand}.
 '''
     buttons = button_build.ButtonMaker()
-    buttons.buildbutton("Support Group", "https://telegram.dog/cloudsmirror")
+    buttons.buildbutton("Support Group", "https://t.me/torrent2drivesupport")
     reply_markup = InlineKeyboardMarkup(buttons.build_menu(2))
     LOGGER.info('UID: {} - UN: {} - MSG: {}'.format(update.message.chat.id, update.message.chat.username, update.message.text))
     uptime = get_readable_time((time.time() - botStartTime))
