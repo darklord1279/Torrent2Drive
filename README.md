@@ -1,6 +1,6 @@
-[![Slam](https://imagetot.com/images/2021/06/28/e8155fe3d87a1084d7cda5f4ecc5211c.jpg)](https://telegram.dog/cloudsmirror)
+[![Slam](https://wallpapercave.com/wp/wp2475724.png)](https://t.me/torrent2drivesupport)
 
-# Deepak Clouds Mirror
+# Torrent2Drive
 ![GitHub Repo stars](https://img.shields.io/github/stars/blackdeep04/deepak-clouds-mirror?color=blue&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/blackdeep04/deepak-clouds-mirror?color=green&style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/blackdeep04/deepak-clouds-mirror/deepak-clouds-mirror)
@@ -13,8 +13,8 @@
 ![GitHub](https://img.shields.io/github/license/blackdeep04/deepak-clouds-mirror)
 [![Slam Mirror Support](https://img.shields.io/badge/Deepak%20Clouds%20Mirror-support%20group-blue)](https://telegram.dog/cloudsmirror)
 
-**Deepak Clouds Torrent** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
-[Supported Groups](https://telegram.dog/cloudsmirror)
+**Torrent2Drive** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
+[Supported Groups](https://t.me/torrent2drivesupport)
 # Features supported:
 ## Additional Features
 - Get detailed info about replied media (Only for Telegram file)
