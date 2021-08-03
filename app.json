@@ -9,7 +9,7 @@
     ],
     "repository": "https://github.com/darklord1279/Torrent2Drive",
     "website": "https://github.com/darklord1279/Torrent2Drive",
-    "success_url": "https://t.me/cloudsmirror",
+    "success_url": "https://t.me/torrent2drivesupport",
     "stack": "container",
     "env": {
       "ENV": {
